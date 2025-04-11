@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitingit7&theme=dracula" alt="nitingit7" /></a> </p>
 
-<img align="right" height="200" src="https://media1.tenor.com/m/JSjR9nQGp50AAAAC/itachi-sharingan.gif"  />
+<img align="right" height="150" src="https://media1.tenor.com/m/JSjR9nQGp50AAAAC/itachi-sharingan.gif"  />
 
 - 🔭 I’m currently working on **Game Development**
 
