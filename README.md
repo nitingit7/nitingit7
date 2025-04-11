@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitingit7&theme=dracula" alt="nitingit7" /></a> </p>
 
-<img align="right" height="100" src="https://media1.tenor.com/m/JSjR9nQGp50AAAAC/itachi-sharingan.gif"  />
+<img align="right" height="150" src="https://tenor.googleapis.com/v2/media?id=15424810432906977131&format=optimizedgif&client_key=tenor_web&appversion=browser-r20250409-1&access_token=ya29.a0AZYkNZjryI4P27Y8YEmNuB6lFxPyeYBygAWvBw33XKplVCBVWVjd_fk7P6xl_sXCgJwA1YztRNeCSx0NuV41UyWC95J4hYWAtwpYqJEWdgFKNRC09ib7N-OghSybLPtNuEdbG8T9aWxIQ2Auj9wbBMEvZOxToyxcxlhgTB-gaCgYKAT8SARISFQHGX2Mi9MMAK457udYbLbcMVR5qhg0175&key=AIzaSyC-P6_qz3FzCoXGLk6tgitZo4jEJ5mLzD8"  />
 
 - 🔭 I’m currently working on **Game Development**
 
