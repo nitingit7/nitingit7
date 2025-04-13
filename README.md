@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitingit7&theme=dracula" alt="nitingit7" /></a> </p>
 
-<img align="right" height="100" src="https://s3.ezgif.com/tmp/ezgif-3c258d0d7e5cf1.gif"  />
+<img align="right" height="100" src="https://github.com/nitingit7/nitingit7/blob/main/GIFs/9qh1pp.gif?raw=true"  />
 
 - 🔭 I’m currently working on **Game Development**
 
