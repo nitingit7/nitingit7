@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nitin Kumar</h1>
 <h3 align="center">A passionate Game Developer and student of Delhi University from India</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitingit7&theme=dracula" alt="nitingit7" /></a> </p>
-
 <img align="right" height="100" src="https://github.com/nitingit7/nitingit7/blob/main/GIFs/9qh1pp.gif?raw=true"  />
 
 - 🔭 I’m currently working on **Game Development**
