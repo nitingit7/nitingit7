@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitin Kumar</h1>
-<h3 align="center">A passionate Game Developer & CS Student at Delhi University 🇮🇳</h3>
+<h3 align="center">A passionate [Game, App, Web] developer</h3>
 
 <br/>
 
