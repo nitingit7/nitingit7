@@ -1,32 +1,78 @@
 <h1 align="center">Hi 👋, I'm Nitin Kumar</h1>
-<h3 align="center">A passionate Game Developer and student of Delhi University from India</h3>
+<h3 align="center">A passionate Game Developer & CS Student at Delhi University 🇮🇳</h3>
 
-<img align="right" height="100" src="https://github.com/nitingit7/nitingit7/blob/main/GIFs/9qh1pp.gif?raw=true"  />
+<br/>
 
-- 🔭 I’m currently working on **Game Development**
+<img align="right" height="150" src="https://github.com/nitingit7/nitingit7/blob/main/GIFs/9qh1pp.gif?raw=true" />
 
-- 🌱 I’m currently learning **Lua, Unity, Blender**
+- 🔭 I'm currently working on **App Development**
+- 🌱 I'm currently learning **Flutter & Linux**
+- 👨‍💻 All of my projects are available at **[My Google Drive Portfolio](https://drive.google.com/drive/folders/1ZK5uxXMkLWrgXIS54GYRPjzsvr4LMg1N?usp=sharing)**
+- 📫 Reach me at **nitinrohit5635@gmail.com**
+- ⚡ Fun fact: **I love to build and develop things!**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1ZK5uxXMkLWrgXIS54GYRPjzsvr4LMg1N?usp=sharing](https://drive.google.com/drive/folders/1ZK5uxXMkLWrgXIS54GYRPjzsvr4LMg1N?usp=sharing)
+<br clear="right"/>
 
-- 📫 How to reach me **nitinrohit5635@gmail.com**
+---
 
-- ⚡ Fun fact **I am an enthusiastic person**
+<h3 align="left">🌐 Connect with me</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="mailto:nitinrohit5635@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://drive.google.com/drive/folders/1ZK5uxXMkLWrgXIS54GYRPjzsvr4LMg1N?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitingit7&show_icons=true&locale=en&layout=compact&theme=dracula" alt="nitingit7" /></p>
+<h3 align="left">🛠️ Languages & Tools</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitingit7&show_icons=true&locale=en&theme=dracula" alt="nitingit7" /></p>
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=c" width="45" height="45" alt="C"/><br/>
+      <sub><b>C</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" alt="C++"/><br/>
+      <sub><b>C++</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=cs" width="45" height="45" alt="C#"/><br/>
+      <sub><b>C#</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python"/><br/>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL"/><br/>
+      <sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=unity" width="45" height="45" alt="Unity"/><br/>
+      <sub><b>Unity</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter"/><br/>
+      <sub><b>Flutter</b></sub>
+    </td>
+  </tr>
+</table>
 
-<p>
-  <img align="center" src="https://streak-stats.demolab.com?user=nitingit7&theme=dark" alt="nitingit7" />
+---
+
+<h3 align="left">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nitingit7&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="380"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=nitingit7&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" width="420"/>
 </p>
 
-
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nitingit7&theme=dracula&hide_border=true" alt="GitHub Streak" width="480"/>
+</p>
